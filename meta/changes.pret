@@ -4,3 +4,11 @@
 	issued  2012-11-26;
 	label   "Initial release".
 
+`return-thence 0.002 cpan:TOBYINK`
+	issued  2012-12-26;
+	changeset [
+		item "Document test suite."^^Documentation;
+		item "Document difficulties with XS."^^Documentation;
+		item "Use Scope::Upper::CALLER instead of repeated applications of SUB UP."^^;
+	].
+
