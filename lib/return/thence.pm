@@ -90,7 +90,6 @@ This software is copyright (c) 2012 by Toby Inkster.
 This is free software; you can redistribute it and/or modify it under
 the same terms as the Perl 5 programming language system itself.
 
-
 =head1 DISCLAIMER OF WARRANTIES
 
 THIS PACKAGE IS PROVIDED "AS IS" AND WITHOUT ANY EXPRESS OR IMPLIED
