@@ -9,6 +9,6 @@
 	changeset [
 		item "Document test suite."^^Documentation;
 		item "Document difficulties with XS."^^Documentation;
-		item "Use Scope::Upper::CALLER instead of repeated applications of SUB UP."^^;
+		item "Use Scope::Upper::CALLER instead of repeated applications of SUB UP."^^Change;
 	].
 
