@@ -6,7 +6,7 @@ use warnings;
 
 BEGIN {
 	$return::thence::AUTHORITY = 'cpan:TOBYINK';
-	$return::thence::VERSION   = '0.002';
+	$return::thence::VERSION   = '0.003';
 }
 
 use Scope::Upper qw( unwind CALLER );

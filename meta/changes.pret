@@ -12,3 +12,10 @@
 		item "Use Scope::Upper::CALLER instead of repeated applications of SUB UP."^^Change;
 	].
 
+
+`return-thence 0.003 cpan:TOBYINK`
+	issued    2014-09-10;
+	changeset [
+		item "Switch to Dist::Inkt."^^Packaging;
+	].
+
