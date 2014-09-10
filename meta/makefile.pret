@@ -1,0 +1,7 @@
+@prefix deps:  <http://ontologi.es/doap-deps#> .
+
+<http://purl.org/NET/cpan-uri/dist/return-thence/project>
+	deps:runtime-requirement         [ deps:on "Scope::Upper"^^deps:CpanId ];
+	deps:test-requirement            [ deps:on "Test::More 0.61"^^deps:CpanId ];
+	deps:test-requirement            [ deps:on "Try::Tiny"^^deps:CpanId ].
+
